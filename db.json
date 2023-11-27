@@ -1,0 +1,19 @@
+{
+  "users": [
+    {
+      "email": "proka.egor@gmail.com",
+      "password": "12345ABCa",
+      "date": 1700913856232,
+      "id": 1
+    }
+  ],
+  "notes": [
+    {
+      "id": 4,
+      "authorId": 1,
+      "title": "Homework",
+      "text": "do hometask",
+      "createdAt": "2023-11-26T16:36:06.424Z"
+    }
+  ]
+}
